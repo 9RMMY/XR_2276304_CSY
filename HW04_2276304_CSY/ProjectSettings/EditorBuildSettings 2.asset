@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/TW01/AhnMinYeong/TW01_AMY.unity
+    guid: b69b0ba531f0d46d39ebd1578879cfa0
+  - enabled: 1
+    path: Assets/HW04/Scene1.unity
+    guid: a2bb50333ff534e12862b387c9276030
+  - enabled: 0
+    path: Assets/TW01/KimNamryung/TW01_KNR.unity
+    guid: 8a09067025b3a4c6bb1ce8a9998e892e
+  - enabled: 0
+    path: Assets/TW01/MoonJihyun/TW01_MJH.unity
+    guid: 15eb216c4911b42b08a63951183cf946
+  - enabled: 0
+    path: Assets/TW01/HanJiin/TW01_HJI.unity
+    guid: 9adb2ccaeb5e44466b75b6c91eb1b0d7
+  - enabled: 0
+    path: Assets/HW04/SharedScene.unity
+    guid: f2fc178c6cd2049819c2eb2e445f4095
+  - enabled: 1
+    path: Assets/HW04/Scene2.unity
+    guid: 2f03558d4203d4fe385ef610340cb938
+  m_configObjects: {}
